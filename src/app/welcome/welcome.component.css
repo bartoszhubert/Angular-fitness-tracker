@@ -1,0 +1,8 @@
+.welcome {
+  text-align: center;
+  padding: 20px 10px;
+}
+.welcome section {
+  max-width: 400px;
+  margin: 15px auto;
+}

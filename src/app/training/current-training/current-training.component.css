@@ -1,0 +1,11 @@
+.current-training {
+  padding-top: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.current-training h1,
+.current-training p,
+.current-training button {
+  margin: 15px 0;
+}

@@ -1,0 +1,12 @@
+.new-training {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 30px;
+}
+.new-training button {
+  margin: 0 auto;
+}
+mat-card {
+  min-width: 400px;
+}

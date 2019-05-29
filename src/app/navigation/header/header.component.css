@@ -1,0 +1,21 @@
+.nav-hamburger {
+  display: none;
+}
+.navigation {
+  width: 100%;
+  text-align: right;
+  padding-right: 30px;
+}
+.navigation a {
+  margin: 0 10px;
+  padding: 0 10px;
+}
+
+@media screen and (max-width: 600px) {
+  .nav-hamburger {
+    display: block;
+  }
+  .navigation {
+    display: none;
+  }
+}
